@@ -1,1 +1,1 @@
-# Creating Amazon Clone or we i say Amazone front-end.
+# Creating Amazon Clone or i say Amazone front-end.
